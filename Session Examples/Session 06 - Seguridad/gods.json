@@ -1,0 +1,97 @@
+[
+    {
+      "name": "Zeus",
+      "lives": "Olympus",
+      "symbol": "thunderbolt"
+    },
+    {
+      "name": "Poseidon",
+      "lives": "Sea",
+      "symbol": "horse"
+    },
+    {
+      "name": "Hades",
+      "lives": "Hell",
+      "symbol": "helmet"
+    },
+    {
+      "name": "Hercules",
+      "lives": "Earth",
+      "symbol": "lion"
+    },
+    {
+      "name": "Ares",
+      "lives": "Mars",
+      "symbol": "dog"
+    },
+    {
+      "name": "Athena",
+      "lives": "Athens",
+      "symbol": "owl"
+    },
+    {
+      "name": "Apollo",
+      "lives": "Sun",
+      "symbol": "lyre"
+    },
+    {
+      "name": "Artemis",
+      "lives": "Moon",
+      "symbol": "deer"
+    },
+    {
+      "name": "Aphrodite",
+      "lives": "Love",
+      "symbol": "dove"
+    },
+    {
+      "name": "Hephastus",
+      "lives": "Fire",
+      "symbol": "anvil"
+    },
+    {
+      "name": "Hermes",
+      "lives": "Mercury",
+      "symbol": "winged sandals"
+    },
+    {
+      "name": "Dionysus",
+      "lives": "Wine",
+      "symbol": "grapes"
+    },
+    {
+      "name": "Demeter",
+      "lives": "Ceres",
+      "symbol": "cornucopia"
+    },
+    {
+      "name": "Hestia",
+      "lives": "Vesta",
+      "symbol": "altar"
+    },
+    {
+      "name": "Persephone",
+      "lives": "Proserpina",
+      "symbol": "pomegranate"
+    },
+    {
+      "name": " Hecate",
+      "lives": "Night",
+      "symbol": "torch"
+    },
+    {
+      "name": "Perseus",
+      "lives": "Earth",
+      "symbol": "winged sandals"
+    },
+    {
+      "name": "Orpheus",
+      "lives": "Music",
+      "symbol": "lyre"
+    },
+    {
+      "name": "Theseus",
+      "lives": "Athens",
+      "symbol": "sack"
+    }
+  ]

@@ -1,0 +1,97 @@
+[
+    {
+      "name": "Zeus",
+      "lives": "Olympus",
+      "Symbol": "thunderbolt"
+    },
+    {
+      "name": "Poseidon",
+      "lives": "Sea",
+      "Symbol": "horse"
+    },
+    {
+      "name": "Hades",
+      "lives": "Hell",
+      "Symbol": "helmet"
+    },
+    {
+      "name": "Hercules",
+      "lives": "Earth",
+      "Symbol": "lion"
+    },
+    {
+      "name": "Ares",
+      "lives": "Mars",
+      "Symbol": "dog"
+    },
+    {
+      "name": "Athena",
+      "lives": "Athens",
+      "Symbol": "owl"
+    },
+    {
+      "name": "Apollo",
+      "lives": "Sun",
+      "Symbol": "lyre"
+    },
+    {
+      "name": "Artemis",
+      "lives": "Moon",
+      "Symbol": "deer"
+    },
+    {
+      "name": "Aphrodite",
+      "lives": "Love",
+      "Symbol": "dove"
+    },
+    {
+      "name": "Hephastus",
+      "lives": "Fire",
+      "Symbol": "anvil"
+    },
+    {
+      "name": "Hermes",
+      "lives": "Mercury",
+      "Symbol": "winged sandals"
+    },
+    {
+      "name": "Dionysus",
+      "lives": "Wine",
+      "Symbol": "grapes"
+    },
+    {
+      "name": "Demeter",
+      "lives": "Ceres",
+      "Symbol": "cornucopia"
+    },
+    {
+      "name": "Hestia",
+      "lives": "Vesta",
+      "Symbol": "altar"
+    },
+    {
+      "name": "Persephone",
+      "lives": "Proserpina",
+      "Symbol": "pomegranate"
+    },
+    {
+      "name": " Hecate",
+      "lives": "Night",
+      "Symbol": "torch"
+    },
+    {
+      "name": "Perseus",
+      "lives": "Earth",
+      "Symbol": "winged sandals"
+    },
+    {
+      "name": "Orpheus",
+      "lives": "Music",
+      "Symbol": "lyre"
+    },
+    {
+      "name": "Theseus",
+      "lives": "Athens",
+      "Symbol": "sack"
+    }
+  ]
